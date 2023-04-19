@@ -1,0 +1,6 @@
+simplejson
+decord
+librosa==0.6.0
+torchlibrosa
+numba==0.48.0
+einops

@@ -1,0 +1,1 @@
+# ./ossutil64 cp -r ../data/ucf101 oss://peiyixuan/datasets/
