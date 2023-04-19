@@ -78,7 +78,7 @@ We provide the pre-trained weights (checkpoints) of TSM.
 ## Citation
 ```
 @inproceedings{
-jun2023devil
+jun2023enlarge
 title={Enlarge Instance-specific and Class-specific Information for Open-set Action Recognition},
 author={Jun Cen,  Shiwei Zhang, Xiang Wang, Yixuan Pei, Zhiwu Qing, Yingya Zhang, Qifeng Chen},
 booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
